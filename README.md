@@ -1,5 +1,5 @@
 # miskoos
--# a lightweight linux-like operating system with the lua interpeter as the main language (OS uses C++)
+ a lightweight linux-like operating system with the lua interpeter as the main language (OS uses C++)
 
 ## estimated release: 17th of may
 
